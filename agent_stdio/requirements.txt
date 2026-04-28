@@ -1,0 +1,5 @@
+google-adk
+fastmcp
+mcp
+requests
+python-dotenv
