@@ -1,4 +1,4 @@
-# Buidling ADK agents with MCP via Stdio and htto
+# Buidling ADK agents with MCP via Stdio and http
 
 A clinical research assistant built with Google ADK and MCP. It can
 brief a clinician before a patient visit and explain medications to
